@@ -68,28 +68,18 @@ const Senor = {
 
 # 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=senor-777&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF&text_color=FFFFFF&icon_color=00F7FF" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senor-777&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF&text_color=FFFFFF" />
+</p>
 
-<table border="0">
-  <tr>
-    <td>
-      <img height="195em" src="https://github-readme-stats.vercel.app/api?username=senor-777&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF&text_color=FFFFFF&icon_color=00F7FF" />
-    </td>
-    <td>
-      <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=senor-777&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF&text_color=FFFFFF" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=senor-777&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=senor-777&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%2C%20Y" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=senor-777&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=senor-777&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
 
 ---
 
@@ -102,3 +92,68 @@ const Senor = {
 ---
 
 # 🔥 Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Discord Voice Controller Bot</h3>
+      <p>بوت متطور لإدارة الرومات الصوتية بـ Control Panel واجهة تفاعلية وأوامر سريعة.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Cyberpunk Gaming Portfolio</h3>
+      <p>موقع تعريفي للـ Gaming بالـ Neon style، كيعرض المواعيد، الإحصائيات، واللايفات.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/UI/UX-FF69B4?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎮 Community Management Tools</h3>
+      <p>مجموعة من الأدوات والـ Scripts لإدارة وتنسيق سيرفرات الديسكورد والـ Communities.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
+        <img src="https://img.shields.io/badge/Automation-00F7FF?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ Custom Desktop Utilities</h3>
+      <p>برامج وأدوات سطح المكتب خفيفة وسريعة مصاوبة بـ WinForms وتصميم موديرن.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/WinForms-0078D6?style=flat-square&logo=windows&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.tiktok.com/@nayar__777" target="_blank">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+</a>
+<a href="https://kick.com/vinbigi777" target="_blank">
+  <img src="https://img.shields.io/badge/Kick-53FC18?style=for-the-badge&logo=kick&logoColor=black" />
+</a>
+<a href="https://open.spotify.com/user/31uvdm7wd6emx2kyt4qoe66x2xxu" target="_blank">
+  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+  <p>⭐ <b>Designed with precision for SENOR</b> ⭐</p>
+</div>
