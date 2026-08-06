@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="assets/banner.gif" width="100%" alt="SENOR Banner" />
+<img src="assets/banner.gif" width="100%" alt="SE|NOR Banner" />
 
 <br/><br/>
 
