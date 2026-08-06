@@ -136,24 +136,6 @@ const Senor = {
 
 ---
 
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.tiktok.com/@nayar__777" target="_blank">
-  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-</a>
-<a href="https://kick.com/vinbigi777" target="_blank">
-  <img src="https://img.shields.io/badge/Kick-53FC18?style=for-the-badge&logo=kick&logoColor=black" />
-</a>
-<a href="https://open.spotify.com/user/31uvdm7wd6emx2kyt4qoe66x2xxu" target="_blank">
-  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-</a>
-
-</div>
-
----
-
 <div align="center">
   <p>⭐ <b>Designed with precision for SENOR</b> ⭐</p>
 </div>
