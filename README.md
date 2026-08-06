@@ -97,7 +97,7 @@ const Senor = {
   <tr>
     <td width="50%" valign="top">
       <h3>🤖 Discord Voice Controller Bot</h3>
-      <p>بوت متطور لإدارة الرومات الصوتية بـ Control Panel واجهة تفاعلية وأوامر سريعة.</p>
+      <p>Advanced voice room management bot with an interactive Control Panel and fast commands.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
@@ -106,7 +106,7 @@ const Senor = {
     </td>
     <td width="50%" valign="top">
       <h3>🌐 Cyberpunk Gaming Portfolio</h3>
-      <p>موقع تعريفي للـ Gaming بالـ Neon style، كيعرض المواعيد، الإحصائيات، واللايفات.</p>
+      <p>Gaming portfolio website in neon style, displaying schedules, stats, and live streams.</p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -117,7 +117,7 @@ const Senor = {
   <tr>
     <td width="50%" valign="top">
       <h3>🎮 Community Management Tools</h3>
-      <p>مجموعة من الأدوات والـ Scripts لإدارة وتنسيق سيرفرات الديسكورد والـ Communities.</p>
+      <p>A set of tools and scripts to manage and coordinate Discord servers and communities.</p>
       <p>
         <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
         <img src="https://img.shields.io/badge/Automation-00F7FF?style=flat-square" />
@@ -125,7 +125,7 @@ const Senor = {
     </td>
     <td width="50%" valign="top">
       <h3>⚡ Custom Desktop Utilities</h3>
-      <p>برامج وأدوات سطح المكتب خفيفة وسريعة مصاوبة بـ WinForms وتصميم موديرن.</p>
+      <p>Lightweight and fast desktop applications built with WinForms and modern design.</p>
       <p>
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
         <img src="https://img.shields.io/badge/WinForms-0078D6?style=flat-square&logo=windows&logoColor=white" />
