@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="assets/banner.gif" width="100%" alt="SE|NOR Banner" />
+<img src="https://raw.githubusercontent.com/senor-777/senor-777/main/assets/banner.gif" width="100%" alt="SE|NOR Banner" />
 
 <br/><br/>
 
